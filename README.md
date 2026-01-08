@@ -13,11 +13,7 @@
 
   <br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-LeChacal&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-  <br/>
-
-  <img src="https://myreadme.vercel.app/api/embed/Dev-LeChacal?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-LeChacal&theme=tokyonight&no-frame=true&row=1&column=7" />
 
   <br/>
 
