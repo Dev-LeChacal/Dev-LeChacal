@@ -1,5 +1,3 @@
-# LeChacal
-
 <b>I make games, apps and a lot of other things.</b>
 
 ## Game Engines / Frameworks
