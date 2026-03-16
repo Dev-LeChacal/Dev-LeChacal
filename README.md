@@ -1,11 +1,15 @@
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=50&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=header" />
 
-<br/>
+Je fais des jeux (Unreal Engine, Unity), des applications (Flutter, React Native).
 
-<b>Salut c'est LeChacal<b/>
+Je sais coder en :
+- C#
+- C++
+- Dart
+- Javascript/Typescript
+- Python
+- Go
+- Lua
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=50&section=footer" />
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" />
