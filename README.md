@@ -1,15 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=header" />
+# LeChacal
 
-Je fais des jeux (Unreal Engine, Unity), des applications (Flutter, React Native).
+I make games, apps and a lot of other things.
 
-Je sais coder en :
-- C#
-- C++
-- Dart
-- Javascript/Typescript
-- Python
-- Go
-- Lua
+## Frameworks / Game Engines
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unreal,unity,robloxstudio,flutter,react" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" />
+## Programming Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dart,js,ts,py,go,lua" />
+  </a>
+</p>
+
+## IDEs
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sublime,vscode,clion,rider,pycharm,webstorm" />
+  </a>
+</p>
