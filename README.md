@@ -2,7 +2,7 @@
 
 <b>I make games, apps and a lot of other things.</b>
 
-## Frameworks / Game Engines
+## Game Engines / Frameworks
 
 <p align="center">
   <a href="https://skillicons.dev">
