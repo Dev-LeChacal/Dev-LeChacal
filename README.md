@@ -2,11 +2,11 @@
 
 <br/>
 
-## Game Engines / Frameworks
+## Game Engines / Frameworks / Libs
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unreal,unity,robloxstudio,flutter,react" />
+    <img src="https://skillicons.dev/icons?i=godot,unreal,unity,robloxstudio,flutter,react" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dart,js,ts,py,go,lua" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dart,js,ts,py,go,lua,gd" />
   </a>
 </p>
 
