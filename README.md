@@ -1,4 +1,4 @@
-<b>I make games, apps and a lot of other things.</b>
+<b>I make apps, games and a lot of other things.</b>
 
 <br/>
 
